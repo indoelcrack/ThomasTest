@@ -6,7 +6,7 @@
       <class name="PackThomas.CheckLinkThomas">
         <methods>
           <include name="beforeClass"/>
-          <include name="f"/>
+          <include name="login" invocation-numbers="0"/>
           <include name="afterClass"/>
         </methods>
       </class> <!-- PackThomas.CheckLinkThomas -->
